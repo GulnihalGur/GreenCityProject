@@ -1,18 +1,17 @@
-## Getting Started
+# 🌿 Green City Project
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+This project analyzes the energy consumption of devices and selects the most efficient combination using the **0/1 Knapsack Algorithm**.
 
-## Folder Structure
+---
 
-The workspace contains two folders by default, where:
+## 🚀 Features
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+- Device model structure (`Device.java`)
+- Knapsack optimization algorithm (`Knapsack.java`)
+- Simple console-based application (`App.java`)
+- Calculates best energy-efficiency combination based on capacity
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+---
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## 📁 Project Structure
 
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
